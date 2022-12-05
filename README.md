@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rio🤓
-- 👀 I’m interested in web development;Python🐍(django) & vueJS👨🏽‍💻
+- 👀 I’m interested in web development;Python🐍(django) & AngularJS👨🏽‍💻
 - 🌱 I’m currently learning javaScript and jquery
-- 💞️ I’m looking to collaborate on django
+- 💞️ I’m looking to collaborate on django, flutter as well  as angular
 - 📫 How to reach me +255 689 520 741
 
 <!---
